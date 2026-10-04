@@ -1,0 +1,6 @@
+{
+  "name": "Discord Server Studio — Namoro & Entretenimento",
+  "description": "Ambiente simulado de configuração de servidor Discord com comando /templates (id), recriação automática de canais e proteção IA contra gore e conteúdo sangrento.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
